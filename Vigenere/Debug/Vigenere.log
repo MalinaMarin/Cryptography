@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(18,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(117,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(126,8): warning C4101: 'MIC': unreferenced local variable
+C:\Users\Lenovo\source\repos\Vigenere\Source.cpp(164,17): warning C4018: '<': signed/unsigned mismatch
+  Vigenere.vcxproj -> C:\Users\Lenovo\source\repos\Vigenere\Debug\Vigenere.exe
